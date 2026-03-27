@@ -20,27 +20,26 @@ Repositori ini memuat ekosistem perangkat lunak terintegrasi milik DPMPTSP. Kami
 
 ## 🌐 Portofolio Sistem Inti (Core Systems)
 
-### 1. SIAP Jateng (Sistem Informasi Aplikasi Perizinan)
+### 1. [SIAP Jateng (Sistem Informasi Aplikasi Perizinan)](https://perizinan.jatengprov.go.id)
 **Status: Production/Live** | **Domain:** Pelayanan Publik Non-OSS
 SIAP Jateng adalah tulang punggung pelayanan perizinan daerah yang tidak ter- *cover* oleh sistem OSS RBA pusat. 
 * **Fokus:** Pemrosesan izin sektoral daerah dengan alur birokrasi digital yang transparan dan *traceable*.
 * **Keunggulan:** *Form validation* berlapis untuk mencegah *garbage data*, integrasi Tanda Tangan Elektronik (TTE), dan pelacakan status dokumen secara *real-time*.
 
-### 2. CJIP (Central Java Investment Platform)
+### 2. [CJIP (Central Java Investment Platform)](https://cjip.jatengprov.go.id)
 **Status: Production/Live** | **Domain:** Promosi & Manajemen Investasi
 Portal pintar yang menghubungkan potensi daerah dengan investor domestik dan global.
 * **Fokus:** Pemetaan spasial (GIS) untuk peluang investasi, direktori proyek *ready-to-offer*, dan interaksi proaktif dengan calon penanam modal.
 * **Keunggulan:** Antarmuka visual yang sangat responsif, mendukung *multi-language*, dan menyajikan analitik data ekonomi yang *clean* untuk meyakinkan investor.
 
-### 3. INTAN (Sistem Informasi Tata Kelola Internal)
+### 3. [INTAN (Sistem Informasi Tata Kelola Internal)](https://intan.dpmptsp.jatengprov.go.id)
 **Status: Production/Live** | **Domain:** HRIS & Back-Office Management
 Mesin penggerak efisiensi ASN dan pegawai di lingkungan DPMPTSP.
-* **Fokus:** Manajemen kehadiran, penilaian kinerja (KPI), pencatatan agenda dinas, dan otomatisasi administrasi kepegawaian.
+* **Fokus:** Manajemen kepegawaian, penilaian kinerja (KPI), pencatatan agenda dinas, manajemen asset,  dan otomatisasi administrasi kepegawaian.
 * **Keunggulan:** Arsitektur *backend* yang *robust* dengan *dashboard* operasional yang intuitif, memangkas red tape internal dan memastikan produktivitas tim pelayanan tetap maksimal.
-
 ---
 
-## 🌟 Inovasi Masa Depan (Under Development)
+## 🌟 Under Development
 
 ### 4. BIMA-AI (Business Investment & Management Assistant)
 **Status: MVP / Hackathon Project** | **Domain:** AI-Driven Public Service
