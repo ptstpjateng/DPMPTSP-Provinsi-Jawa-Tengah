@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ptspjateng/DPMPTSP-Provinsi-Jawa-Tengah/blob/main/images/logo.png" alt="DPMPTSP Logo" width="120" />
+  <img src="https://github.com/ptspjateng/DPMPTSP-Provinsi-Jawa-Tengah/blob/main/images/logo.webp" alt="DPMPTSP Logo" width="120" />
 
   # 🏢 DPMPTSP GovTech Ecosystem
   **Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu**
